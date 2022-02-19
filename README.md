@@ -7,10 +7,6 @@ face_recognition_authentication_flutter project has "main.dart" as Entry Point.
 - [Drop me your message](https://twitter.com/khandla20)
 
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/MCarlomagno/FaceRecognitionAuth/master/assets/banner.png" alt="banner image"/>
-</div>
-
 
 = = = To Generate Android release steps = = =
 
